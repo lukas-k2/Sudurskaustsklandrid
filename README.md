@@ -7,4 +7,4 @@ Skýrsla fyrir verkefni 4 og 5
 
 __both__
 
-(nst.is)
+{nst.is}
