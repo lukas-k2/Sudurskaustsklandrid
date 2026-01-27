@@ -3,8 +3,8 @@
 
 **bold**
 
+_italick_
 
-
-__both__
+*_both_*
 
 serch for (nst.is)
