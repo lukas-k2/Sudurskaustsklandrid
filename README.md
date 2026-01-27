@@ -6,3 +6,5 @@ Skýrsla fyrir verkefni 4 og 5
 ""italick""
 
 __both__
+
+(nst.is)
