@@ -16,4 +16,4 @@ Borðspilið er um mörgæsir á Suðurskautslandinu sem þarf að komast heim, 
 
 **Takkar - Stóri takkinn til að byrja leikinn, minni takkar fyrir að rulla tening og ákveða leikmenn.**
 
-Spilið mun hafa 1-2 leikmenn, stóri takkinn verður notaður til að rúlla tening. Hver reitur mun hafa 
+Spilið mun hafa 1-2 leikmenn, stóri takkinn verður notaður til að rúlla tening. Annað hvort reitur munn hafa hindrun 
