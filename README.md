@@ -12,3 +12,5 @@ Borðspilið er um mörgæsir á Suðurskautslandinu sem þarf að komast heim, 
 **Hátalarinn - býr til hljóð til að láta vita af líf leikmanns, eða til að vita hvort þau náðu í burt frá hindrun.**
 
 **Takkar - Stóri takkinn til að byrja leikinn, minni takkar fyrir að rulla tening og ákveða leikmenn.**
+
+Spilið mun leyfa 
