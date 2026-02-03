@@ -1,4 +1,4 @@
-# Verkefni-4-og-5---LV.-5
+# Verkefni 4-og-5 H.5
 ## Skýrsla fyrir verkefni 4 og 5
 
 **Suðurskautsklandrið**
