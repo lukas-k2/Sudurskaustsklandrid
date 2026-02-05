@@ -24,9 +24,15 @@ Spilið mun hafa 1 leikmenn, stóri takkinn verður notaður til að rúlla teni
 
 Reglur:
 1 leikmaður
+
 Þegar á reit sem hefur hindrun þarf að svara spurningu.
+
 Ef þau svara rangt fara þau til baka á síðasta “checkpoint” reiti.
+
 Þarf að fá slétta tölu(meira en 4) til að komast yfir fyrsta parti af fjallinu.
+
 Þegar er að komið að fjallinu þarf að svara spurningar tengt Suðurskautslandinu.
+
 Í húsinu eru matur skilin eftir af fólkinu, 50/50 séns hann er útrunnin og ef hann er, þá er -3 við hvað sem er á teningi.
+
 Það eru “checkpoint” reitir sem fólk fara á ef þau tapa spurningu.
