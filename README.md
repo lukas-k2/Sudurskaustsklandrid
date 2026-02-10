@@ -30,5 +30,5 @@ Ef þau svara rangt fara þau til baka á síðasta “checkpoint” reiti.
 ## Hlutir notaðir og reitir ##
 
 1. Skjár
- -eee
+   - Þetta verður notað
 
