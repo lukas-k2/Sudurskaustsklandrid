@@ -24,6 +24,7 @@ Reglur:
    - Til að byrja leikinn, til að takka ákvörðun í leiknum. Stóri takinn er notaður fyrir að byrja en 2 minnni eru notaðir fyrir ákvörðun.
 4. **Seglar**
    - Mörgæsinn munn hafa segull á botninum sem sumir reitir munu kveikja ef þau finna fyrir seglinum og gera eitthvað slíkt(hindrunar- og checkpoint reitir)
+     ![3D model af morgaes með stað fyrir segull](https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/Amazing%20Maimu-2.stl)
 5. **Reitir**
    - Checkpoint reitir eru reitir sem leikmaður getur farið aftur á eftir að hafa tapið spurningu, þar sem hindrunar reitir hafa spurningar sem leikmaður þarf að svara rétt til að komast áfram.
 
