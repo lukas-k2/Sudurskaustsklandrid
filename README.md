@@ -1,5 +1,3 @@
-
-
 # Skýrsla #
 Við byrjuðum saman í hóp rosa kátir og byrjuðu að hanna borðspilið, þar sem við ákveðum að skipta vinnuna upp eftir hvað við vorum góð að gera, þar sem Lúkas myndi sinna 2D hönnun og sjá um að forrita, þar sem ég myndi sjá um skýrsluna, 3D hönnun og að lóða fyrir verkefnið. Hugmyndir fyrir borðspil eins og Jumanji líkt spil þar sem hlutir myndu gerast og fylgdu reglur spilsins eins og í myndinni en það var ákveðið að spilið myndi vera blanda of "Would you Rather?" og venjuleg borðspil. Okkar borðspil myndi innihalda **takka, skjá, segla, hátalara, RGB ljós, ESP-32** og víra til að setja það saman. Borðspilið er um mörgæsir á Suðurskautslandinu sem þarf að komast heim, á leiðinni mun leikmenn vera fyrir hindranir þar á meðal snjóbirni og manneskjum, þar sem mörgæs mun svara spurningar til að komast áfram og ef þau svara rangt, fara þau aftur á "checkpoint" reit. Manneskjur eru á loka reitinum og þar er ákveðið að þeim myndu vera hent aftur á fjall reitinnn ef þau svara rangt, spurningar munu vera tengt unhverfinu.
 
@@ -7,7 +5,6 @@ Við byrjuðum saman í hóp rosa kátir og byrjuðu að hanna borðspilið, þa
 ![mynd af fyrstu útgáfu spilsins](https://github.com/lukas-k2/Sudurskaustsklandrid/blob/main/IMG_4372.HEIC)
 
 # Leikreglur #
-
 Reglur:
 - Byrjar á byrjunarreit og nota stóra takann sem tening, þar sem tveir minni takkar eru notaðir fyrir ákvörðun í leiknum.
 - 2 leikmenn.
@@ -19,7 +16,6 @@ Reglur:
 - Það eru “checkpoint” reitir sem fólk fara á ef þau tapa spurningu.
 
 ## Hlutir notaðir og reitir ##
-
 1. **Skjár**
    - Þetta verður notað fyrir spurningar og talið af lífum sem leikmaður hefur eftir.
 2. **Hátalarinn**
