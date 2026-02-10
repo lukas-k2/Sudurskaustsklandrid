@@ -1,8 +1,8 @@
 
 ![CpYApR5JCgPkr6hDd6PN7F](https://github.com/user-attachments/assets/e1c48567-faeb-481d-81ba-336c8a04f14c)
 
-# Sudurskautsklandrið
-*Veigar og Lúkas* 
+# Sudurskautsklandrið - Lúkas og Veigar
+
 
 ## Skýrsla ##
 Við byrjuðum saman í hóp rosa kátir og byrjuðu að hanna borðspilið
