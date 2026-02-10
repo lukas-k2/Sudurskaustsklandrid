@@ -10,7 +10,7 @@ Hugmyndir fyrir borðspil eins og Jumanji líkt spil þar sem hlutir myndu geras
 Okkar borðspil myndi innihalda **takka, skjá, segla, hátalara, RGB ljós, ESP-32** og víra til að setja það saman.
 Borðspilið er um mörgæsir á Suðurskautslandinu sem þarf að komast heim, á leiðinni mun leikmenn vera fyrir hindranir þar á meðal snjóbirni og manneskjum, þar sem mörgæs mun svara spurningar til að komast áfram og ef þau svara rangt, fara þau aftur á "checkpoint" reit. Manneskjur eru á loka reitinum og þar er ákveðið að þeim myndu vera hent aftur á fjall reitinnn ef þau svara rangt, spurningar munu vera tengt unhverfis spurningum.
 
-## Leikreglur ##
+# Leikreglur #
 
 Reglur:
 1 leikmaður.
