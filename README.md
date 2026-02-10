@@ -16,24 +16,19 @@ Reglur:
 1 leikmaður.
 
 Þegar á reit sem hefur hindrun þarf að svara spurningu.
-
 Ef þau svara rangt fara þau til baka á síðasta “checkpoint” reiti.
-
 Þarf að fá slétta tölu(meira en 4) til að komast yfir fyrsta parti af fjallinu.
-
 Þegar er að komið að fjallinu þarf að svara spurningar tengt Suðurskautslandinu.
-
 Í húsinu eru matur skilin eftir af fólkinu, 50/50 séns hann er útrunnin og ef hann er, þá er -3 við hvað sem er á teningi.
-
 Það eru “checkpoint” reitir sem fólk fara á ef þau tapa spurningu.
 
 ## Hlutir notaðir og reitir ##
 
 1. **Skjár**
    - Þetta verður notað fyrir spurningar og talið af lífum sem leikmaður hefur eftir.
-2. **Hátalarinn**
+2. Hátalarinn
    - Býr til hljóð til að láta vita af stöðu lífs eða spila hljóð eftir hvaða svæð þau eru í.
-3.**Takkar**
+3.Takkar
  - Til að byrja leikinn, til að takka ákvörðun í leiknum. Stóri takinn er notaður fyrir að byrja en 2 minnni eru notaðir fyrir ákvörðun.
 4. **Seglar**
    - Mörgæsinn munn hafa segull á botninum sem sumir reitir munu kveikja og gera eitthvað slíkt(hindrunar- og checkpoint reitir).
