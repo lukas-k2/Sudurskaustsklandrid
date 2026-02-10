@@ -29,7 +29,7 @@ Reglur:
 4. **Seglar**
    - Mörgæsinn munn hafa segull á botninum sem sumir reitir munu kveikja og gera eitthvað slíkt(hindrunar- og checkpoint reitir).
 5. **Reitir**
- - Checkpoint reitir eru reitir sem leikmaður getur farið aftur á eftir að hafa tapið spurningu, þar sem hindrunar reitir hafa spurningar sem leikmaður þarf að svara rétt til að komast áfram.
+   - Checkpoint reitir eru reitir sem leikmaður getur farið aftur á eftir að hafa tapið spurningu, þar sem hindrunar reitir hafa spurningar sem leikmaður þarf að svara rétt til að komast áfram.
 
    
 
