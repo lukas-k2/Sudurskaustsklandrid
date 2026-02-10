@@ -22,9 +22,9 @@ Reglur:
 
 1. **Skjár**
    - Þetta verður notað fyrir spurningar og talið af lífum sem leikmaður hefur eftir.
-2. Hátalarinn
+2. **Hátalarinn**
    - Býr til hljóð til að láta vita af stöðu lífs eða spila hljóð eftir hvaða svæð þau eru í.
-3.Takkar
+3. **Takkar**
  - Til að byrja leikinn, til að takka ákvörðun í leiknum. Stóri takinn er notaður fyrir að byrja en 2 minnni eru notaðir fyrir ákvörðun.
 4. **Seglar**
    - Mörgæsinn munn hafa segull á botninum sem sumir reitir munu kveikja og gera eitthvað slíkt(hindrunar- og checkpoint reitir).
